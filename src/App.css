@@ -1,0 +1,123 @@
+header {
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-style: italic;
+  font-family: cursive;
+  color: rgba(255, 255, 0, 0.434);
+}
+
+h2.format {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgba(255, 255, 0, 0.289);
+}
+
+div#generalInfo {
+  margin: 10px, 10px, 10px, 10px;
+  background-color: indianred;
+  padding: 20px;
+}
+
+body div.A h2 {
+  color: black;
+  padding: 30px;
+}
+
+body div.A p {
+  padding: 30px;
+  padding-top: 10px;
+}
+
+header div ul li a {
+  text-decoration: none;
+  float: right;
+  display: inline;
+  width: 20%;
+  list-style-type: none;
+  list-style: none;
+}
+
+div.A {
+  margin-top: 0px;
+  margin-bottom: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: lightpink;
+  border: dashed;
+  border-width: 15px;
+}
+
+div img {
+  width: 500px;
+  height: 400px;
+  padding: 30px;
+}
+
+div img.profile {
+  width: 300px;
+  height: 400px;
+  padding: 25px;
+}
+
+div img.avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 400px;
+}
+
+div p.A {
+  padding: 30px;
+}
+
+div#big div.small div.smaller a {
+  text-align: right;
+}
+
+div.small {
+  background-color: lightpink;
+  border: solid;
+  border-radius: 2px;
+  margin-top: 60px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 30px;
+  border-width: 15px;
+}
+
+div#big {
+  background-color: lightpink;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 20px;
+  border-bottom: solid;
+  border-left: solid;
+  border-right: solid;
+  border-top: none;
+  box-shadow: black;
+  border-width: 15px;
+  box-sizing: border-box;
+}
+
+footer {
+  text-align: center;
+}
+
+div#unique {
+  background-color: lightpink;
+  border: solid;
+  border-radius: 2px;
+  border-width: 15px;
+  border-top: none;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 30px;
+}
